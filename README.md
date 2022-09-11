@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">An aspiring Frontend Developer based in Poland</h3>
+<h3 align="center">An aspiring Frontend Developer with a touch of Backend based in Poland</h3>
 
-- 🔭 I’m currently working on **Personal WebApp**
+- 🔭 I’m currently working on **E-commerce project**
 
-- 🌱 I’m currently learning **React with Typescript**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me? Send me an email! **mateusz.kret@zse.krakow.pl**
 
